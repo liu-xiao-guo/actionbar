@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=actionbar
+Exec=qmlscene %U actionbar/Main.qml
+Icon=actionbar/actionbar.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,17 @@
+{
+    "name": "actionbar.liu-xiao-guo",
+    "description": "description of actionbar",
+    "architecture": "@CLICK_ARCH@",
+    "title": "actionbar",
+    "hooks": {
+        "actionbar": {
+            "apparmor": "actionbar/actionbar.apparmor",
+            "desktop":  "actionbar/actionbar.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
